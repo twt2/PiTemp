@@ -1,2 +1,4 @@
 # PiTemp
-Raspberry Pi project for temp display with LCD combining several other code repositories
+Raspberry Pi temp dissplay via LCD combining Adafruit_Python_CharLCD and RaspberryPiLcdMenu repos
+
+My stuff tries to leave those repos alone as much as possible.
