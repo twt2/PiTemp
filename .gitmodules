@@ -1,0 +1,6 @@
+[submodule "RaspberryPiLcdMenu"]
+	path = RaspberryPiLcdMenu
+	url = https://github.com/aufder/RaspberryPiLcdMenu
+[submodule "Adafruit_Python_CharLCD"]
+	path = Adafruit_Python_CharLCD
+	url = https://github.com/adafruit/Adafruit_Python_CharLCD.git
